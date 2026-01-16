@@ -47,6 +47,9 @@ Classification of movie reviews as positive/negative sentiment using:
 **Key Learning:**
 Embeddings capture semantic similarity that one-hot features miss—similar words pull sentences closer even without exact token matches.
 
+**Competition Link**
+https://www.kaggle.com/competitions/ai-534-2025-f-machine-learning-hw-4
+
 ## Running the Code
 ```bash
 # Install dependencies
